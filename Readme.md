@@ -5,6 +5,5 @@ Exploring data, economics, Finance and technology to better understand society.
 - 🌱 I’m currently learning DeepL in Financial models for better estimation of risk.
 - 👯 I’m looking to collaborate on domains in quant, ESG, statistics and CS.
 - 📫 How to reach me: https://www.linkedin.com/in/atharva-patk4r/
-- Fun Fact:
-- I minored in History. Occasionally, my curiosity about the past turns into short historical write-ups you might find around here.
+- Fun Fact: I minored in History. Occasionally, my curiosity about the past turns into short historical write-ups you might find around here.
 - Hobbies: Chess, Films, Cycling.
