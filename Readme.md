@@ -1,5 +1,5 @@
 Aspiring! Economist | Social Scientist | Tech Enthusiast
-Exploring data, economics, Finance and technology to better understand society.
+Exploring data, economics, finance and technology to better understand society.
 
 - 🔭 I’m currently working on semi-parametric risk models, application in risk management and insurance.
 - 🌱 I’m currently learning DeepL in Financial models for better estimation of risk.
